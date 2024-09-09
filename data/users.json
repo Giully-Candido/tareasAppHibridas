@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cb7e694c-2dbc-407b-8457-c1b3585630a6",
+    "name": "Carla",
+    "email": "carla.2@mail.com"
+  },
+  {
+    "id": "df9cc119-c70a-40f4-abac-5ebb267a0507",
+    "name": "Matias",
+    "email": "matias@mail.com"
+  },
+  {
+    "id": "556b89cf-a5a9-495c-9316-3eaf85932d9a",
+    "name": "Matias",
+    "email": "matias@mail.com"
+  },
+  {
+    "id": "a93324ac-2bc3-4a8c-96cf-80139d25c696",
+    "name": "Giully",
+    "email": "giully.candido@davinci.edu.ar"
+  },
+  {
+    "id": "603299f7-1ac6-416a-8ac0-06c2e0bdc712",
+    "name": "Felipe",
+    "email": "felipe@gmail.com"
+  }
+]

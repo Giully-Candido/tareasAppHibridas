@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dsd3",
+    "name": "Mouse",
+    "price": 500
+  },
+  {
+    "id": "sd323",
+    "name": "Teclado mecanico",
+    "price": 12000
+  },
+  {
+    "id": "75512591-a808-4c51-9fce-0ee5654bada5",
+    "name": "Produto test",
+    "price": 8999
+  },
+  {
+    "id": "c26be117-165f-45e7-87b7-40a8203741e3",
+    "name": "Produto test 2",
+    "price": 50
+  }
+]
